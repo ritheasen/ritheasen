@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h3>Hey, I'm Ritheasen 👋</h3>
-<p>I am software engineering specialize on backend development based in Cambodia, and I am enjoy reading and crafting.</p>
+<p>I am software engineering specialize on backend development based in Cambodia and I am enjoy reading and crafting.</p>
 
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hey, I'm Ritheasen 👋</h1>
-<h3>I am software engineering specialize on backend development based in Cambodia, and I am enjoy reading and crafting.</h3>
+<h3>Hey, I'm Ritheasen 👋</h3>
+<p>I am software engineering specialize on backend development based in Cambodia, and I am enjoy reading and crafting.</p>
 
 

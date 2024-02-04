@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ritheasen/ritheasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey, I'm Ritheasen 👋</h1>
-<h3 align="center">I am software engineering specialize on backend development based in Cambodia, and I am enjoy reading and crafting.</h3>
+<h1>Hey, I'm Ritheasen 👋</h1>
+<h3>I am software engineering specialize on backend development based in Cambodia, and I am enjoy reading and crafting.</h3>
 
 

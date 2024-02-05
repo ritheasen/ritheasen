@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 ## 🔗 Stay connected
 
-<a href="https://www.linkedin.com/in/ritheasen/">LinkedIn</a>
-<a href="https://www.linkedin.com/in/ritheasen/">Instagram</a>
-<a href="https://www.linkedin.com/in/ritheasen/">Facebook</a>
-<a href="https://www.linkedin.com/in/ritheasen/">Youtube</a>
-<a href="https://www.linkedin.com/in/ritheasen/">Telegram</a>
+<a href="https://www.linkedin.com/in/ritheasen/">LinkedIn</a> <br>
+<a href="https://www.linkedin.com/in/ritheasen/">Instagram</a> <br>
+<a href="https://www.linkedin.com/in/ritheasen/">Facebook</a> <br>
+<a href="https://www.linkedin.com/in/ritheasen/">Youtube</a> <br>
+<a href="https://www.linkedin.com/in/ritheasen/">Telegram</a> <br>

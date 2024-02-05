@@ -37,5 +37,6 @@ Here are some ideas to get you started:
 
 **Others:** Agile, Unity, Microsoft Plugin
 
+## 🔨 Connect
 
-
+<a href="https://www.linkedin.com/in/ritheasen/">LinkedIn</a>

@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 
 **Others:** Agile, Unity, Microsoft Plugin
 
-## 🔨 Connect
+## 🔗 Stay connected
 
 <a href="https://www.linkedin.com/in/ritheasen/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/ritheasen/">Instagram</a>
+<a href="https://www.linkedin.com/in/ritheasen/">Facebook</a>
+<a href="https://www.linkedin.com/in/ritheasen/">Youtube</a>
+<a href="https://www.linkedin.com/in/ritheasen/">Telegram</a>

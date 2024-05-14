@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 
 **Backend Development:** Node, ExpressJS, NestJS, Springboot
 
-**DevOp Tools:** Docker, Kubernetes, Kafka
-
-**Version Control:** Git, Github
-
-**Others:** Agile, Unity, Microsoft Plugin
 
 ## 🔗 Stay connected
 

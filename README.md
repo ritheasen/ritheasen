@@ -35,7 +35,5 @@ Here are some ideas to get you started:
 ## 🔗 Stay connected
 
 <a href="https://www.linkedin.com/in/ritheasen/">LinkedIn</a> <br>
-<a href="https://www.instagram.com/ritheasen.dev/">Instagram</a> <br>
 <a href="https://www.facebook.com/ritheasen">Facebook</a> <br>
 <a href="https://www.youtube.com/@ritheasenn">Youtube</a> <br>
-<a href="https://t.me/ritheasen">Telegram</a> <br>

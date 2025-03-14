@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ## 🔨 Techstacks
 
-**Frontend Development:** NextJS, ReactJS, TailwindCSS
+**Frontend Development:** NextJS,
 
-**Backend Development:** Node, ExpressJS, NestJS, Springboot
+**Backend Development:** Go, Node, ExpressJS, NestJS, Springboot
 
 
 ## 🔗 Stay connected
